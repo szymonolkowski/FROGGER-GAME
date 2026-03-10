@@ -1,4 +1,4 @@
 # FROGGER-GAME
 Frogger game written in C.
 
-#*PDCurses-3.9*
+## PDCurses-3.9
